@@ -1,5 +1,5 @@
+//Technology Used: Java , Mysql and Used JDBC (Java Database Connectivity)
 //First user will be required to login
-
 private void loginbtnActionPerformed(java.awt.event.ActionEvent evt) {
 String ID = txt.getText();
 String pwd = new String(txtpwd.getPassword());
