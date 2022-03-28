@@ -1,4 +1,6 @@
 //Technology Used: Java , Mysql and Used JDBC (Java Database Connectivity)
+//and I didn't mentioned the code of Mysql tables here , so if anyone looking for those table , please make your own tables and you van take hints from fields declared here.
+//Thanks
 //First user will be required to login
 private void loginbtnActionPerformed(java.awt.event.ActionEvent evt) {
 String ID = txt.getText();
